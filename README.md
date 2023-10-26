@@ -1,2 +1,2 @@
-# ring-yheory
+# ring-theory
 assignments
